@@ -1,0 +1,8 @@
+com\api\listeners\TestAllureListener.class
+com\api\data\User.class
+com\api\utils\ParseDynamicJson.class
+com\api\listeners\ExtentReporterNG.class
+com\api\utils\FetchProperties.class
+com\api\data\JSONString.class
+com\api\utils\JSONToString.class
+com\api\utils\JsonSchemaValidation.class
